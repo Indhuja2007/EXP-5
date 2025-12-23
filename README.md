@@ -30,11 +30,25 @@ OBSERVATIONS:
 Line Regulation:
 Load Regulation:
 
-REGULATION CHARACTERISTICS:
+CIRCUIT DIAGRAM:
 
 Line Regulation:
 
+![WhatsApp Image 2025-12-23 at 9 13 34 PM](https://github.com/user-attachments/assets/a5ee9e0a-3e58-4447-b1f5-fb1fcad845da)
+
 Load Regulation:
+
+![WhatsApp Image 2025-12-23 at 95 PM](https://github.com/user-attachments/assets/1b586c64-76cf-4c9e-9734-ba1c79578440)
+
+OBSERVATION:
+
+Line Regulation:
+
+![WhatsApp Image 2025-12-23 at 9 13 34 ](https://github.com/user-attachments/assets/6ba4013c-50f3-4afb-a6f1-749ef6e0a4ba)
+
+Load Regulation:
+
+![WhatsApp Image 2025-12-23 at 9 13 34 ](https://github.com/user-attachments/assets/e5ad419f-902d-465d-b161-a2a70985b457)
 
 V-I & REGULATION CHARACTERISTICS:
 
